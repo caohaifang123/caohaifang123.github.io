@@ -21,10 +21,10 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
       
-    - title: "Latent heterogeneous graph network for incomplete multi-view learning"
-      authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
+    - title: "Autoencoder-based Collaborative Attention GAN for Multi-modal Image Synthesis"
+      authors: Bing Cao, <strong>Haifang Cao</strong>, Jiaxu Liu, Pengfei Zhu*, Changqing Zhang, and Qinghua Hu.
       conference_short: TMM
-      conference: IEEE Transactions on Multimedia, 2022
-      pdf: https://ieeexplore.ieee.org/document/9721669
-      code: https://github.com/yxjdarren/LHGN_TMM_2022
+      conference: IEEE Transactions on Multimedia, 2023
+      pdf: https://ieeexplore.ieee.org/abstract/document/10124026
+      code: https://github.com/caohaifang123/ACA-GAN
       image: ./assets/img/LHGN_TMM.png
