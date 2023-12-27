@@ -9,7 +9,7 @@ I am currently a Ph.D. candidate in the College of Intelligence and Computing at
 ## Research Interests
 
 - **Non-Euclidean Representation Learning**
-- **Non-Euclidean Representation Learning**
+- **Graph Neural Networks**
 
 {% include_relative _includes/publications.md %}
 
