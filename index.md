@@ -4,29 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Mining, Tianjin University (TJU), advised by Prof. Pengfei Zhu. Prior to attending TJU, I obtained my B.Sc. degree and M.Sc. degree from North China Electric Power University (NCEPU) and China University of Petroleum (East China) (UPC) in 2018 and 2021, respectively.
+I am currently a Ph.D. candidate in the College of Intelligence and Computing at Tianjin University, supervised by Prof. Pengfei Zhu. I received my B.Sc. degree and M.Sc. degree from Tianjin University in 2018 and 2021, respectively.
 
 ## Research Interests
 
-- **Collaborative Learning**
-- **Continual Learning**
-- **Multi-View Learning**
-  
-## News
+- **Non-Euclidean Representation Learning**
+- **Non-Euclidean Representation Learning**
 
-- **[2023-06]** Our team has won the runner up of CVPR 2023 Continual Learning Challenge.
-- **[2022-02]** "Latent heterogeneous graph network for incomplete multi-view learning" has been accepted by IEEE Transactions on Multimedia (TMM).
 
-## Honors
-
-- **[2023]** The 2nd place in CVPR 2023 Continual Learning Challenge
-- **[2021]** National Scholarship
-- **[2021]** Outstanding Graduate of Shandong Province
-
-## Services
-
-- Workshop organizing committee/member: ICCV 2021, PRCV 2022, ICCV 2023
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
