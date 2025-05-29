@@ -28,3 +28,11 @@ main:
       pdf: https://ieeexplore.ieee.org/abstract/document/10124026
       code: https://github.com/caohaifang123/ACA-GAN
       image: ./assets/img/ACA-GAN.png
+
+    - title: "Hyperbolic-Euclidean Deep Mutual Learning"
+      authors: <strong>Haifang Cao</strong>, Yu Wang*, Jialu Li, Pengfei Zhu*, and Qinghua Hu.
+      conference_short: WWW
+      conference: The Web Conference, 2025
+      pdf: https://dl.acm.org/doi/abs/10.1145/3696410.3714659
+      code: https://github.com/caohaifang123/H-EDML
+      image: ./assets/img/ACA-GAN.png
